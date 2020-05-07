@@ -1,0 +1,15 @@
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\ExcelVSTO_Tests.deps.json
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\ExcelVSTO_Tests.runtimeconfig.json
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\ExcelVSTO_Tests.runtimeconfig.dev.json
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\ExcelVSTO_Tests.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\bin\Debug\netcoreapp2.1\ExcelVSTO_Tests.pdb
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.csprojAssemblyReference.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.csproj.CoreCompileInputs.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.AssemblyInfoInputs.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.AssemblyInfo.cs
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelVSTO_Tests\obj\Debug\netcoreapp2.1\ExcelVSTO_Tests.pdb

@@ -1,0 +1,14 @@
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\VSTO_Tests.deps.json
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\VSTO_Tests.runtimeconfig.json
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\VSTO_Tests.runtimeconfig.dev.json
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\VSTO_Tests.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\bin\Debug\netcoreapp2.1\VSTO_Tests.pdb
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.csprojAssemblyReference.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.csproj.CoreCompileInputs.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.AssemblyInfoInputs.cache
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.AssemblyInfo.cs
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\VSTO_Tests\obj\Debug\netcoreapp2.1\VSTO_Tests.pdb
