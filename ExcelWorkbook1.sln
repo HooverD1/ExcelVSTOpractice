@@ -5,9 +5,7 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWorkbook1", "ExcelWorkbook1\ExcelWorkbook1.csproj", "{79D7A772-5DD8-4005-9393-EB12BBE3005D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VSTO_Tests", "VSTO_Tests\VSTO_Tests.csproj", "{C75C0F07-1CBB-4143-A071-1F8A317EDFA0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_Tests", "NUnit_Tests\NUnit_Tests.csproj", "{B02B268D-FE3F-4532-BB0F-5F9600B72642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnit_Tests", "NUnit_Tests\NUnit_Tests.csproj", "{B02B268D-FE3F-4532-BB0F-5F9600B72642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{79D7A772-5DD8-4005-9393-EB12BBE3005D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D7A772-5DD8-4005-9393-EB12BBE3005D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D7A772-5DD8-4005-9393-EB12BBE3005D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C75C0F07-1CBB-4143-A071-1F8A317EDFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C75C0F07-1CBB-4143-A071-1F8A317EDFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C75C0F07-1CBB-4143-A071-1F8A317EDFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C75C0F07-1CBB-4143-A071-1F8A317EDFA0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B02B268D-FE3F-4532-BB0F-5F9600B72642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B02B268D-FE3F-4532-BB0F-5F9600B72642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B02B268D-FE3F-4532-BB0F-5F9600B72642}.Release|Any CPU.ActiveCfg = Release|Any CPU
