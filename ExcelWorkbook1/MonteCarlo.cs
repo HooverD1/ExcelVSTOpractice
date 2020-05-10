@@ -19,7 +19,7 @@ namespace ExcelWorkbook1
             samplingDistributionData = new List<double>();
         }
         
-        internal List<double> GetRandomizedData(ISampleableDistribution<double> distribution)
+        public List<double> GetRandomizedData(ISampleableDistribution<double> distribution)
         {
             var returnList = new List<double>();
             for(int i=0;i<1000;i++)

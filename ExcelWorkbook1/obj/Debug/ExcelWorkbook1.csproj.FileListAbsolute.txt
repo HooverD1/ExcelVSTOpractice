@@ -5,7 +5,6 @@ C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\ExcelWorkboo
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\ExcelWorkbook1.xlsx
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.csprojAssemblyReference.cache
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.Properties.Resources.resources
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.csproj.GenerateResource.cache
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.csproj.CoreCompileInputs.cache

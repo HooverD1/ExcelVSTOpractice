@@ -1,17 +1,27 @@
 using NUnit.Framework;
 using ExcelWorkbook1;
 using System.Collections.Generic;
+using Accord.Statistics.Distributions;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.InteropServices;
+using Excel = Microsoft.Office.Interop.Excel;
+using Accord.Statistics.Distributions.Univariate;
+using Accord.Statistics.Models.Regression.Linear;
 
 namespace Tests
 {
     public class Tests
     {
         List<double> test_data;
+        List<double> logNormal_data;
 
         [SetUp]
         public void Setup()
         {
             test_data = new List<double>() { 1, 2, 3, 4, 5};
+            
         }
 
         [Test]
@@ -42,5 +52,6 @@ namespace Tests
             uniform.Construct();
             Assert.AreEqual(uniform.score, 0.0);
         }
+
     }
 }

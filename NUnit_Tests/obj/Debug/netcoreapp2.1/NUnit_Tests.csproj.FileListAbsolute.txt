@@ -1,7 +1,5 @@
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.dll.config
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit_Tests.deps.json
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit_Tests.runtimeconfig.json
@@ -9,19 +7,11 @@ C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\N
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit_Tests.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\NUnit_Tests.pdb
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\ExcelWorkbook1.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Statistics.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Math.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\MathNet.Numerics.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.dll
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Math.Core.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\ExcelWorkbook1.pdb
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Statistics.xml
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Math.xml
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\MathNet.Numerics.xml
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.xml
-C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\Accord.Math.Core.xml
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.csprojAssemblyReference.cache
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.csproj.CoreCompileInputs.cache
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.AssemblyInfoInputs.cache
@@ -29,3 +19,7 @@ C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\N
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.csproj.CopyComplete
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\obj\Debug\netcoreapp2.1\NUnit_Tests.pdb
+C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\grins\source\repos\ExcelWorkbook1\NUnit_Tests\bin\Debug\netcoreapp2.1\testhost.dll
