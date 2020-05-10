@@ -21,5 +21,12 @@ namespace Tests
             logNorm.Construct();
             Assert.AreEqual(logNorm.score, 0.97989354960026254);
         }
+        [Test]
+        public void Test_NormalEstimate()
+        {
+            var norm = new NormalEstimate(test_data);
+            norm.Construct();
+            Assert.AreEqual(norm.score, 0.99975274853711238);
+        }
     }
 }
