@@ -34,7 +34,7 @@ namespace ExcelWorkbook1
             //var data1 = mc.GetRandomizedData(new LognormalDistribution(1, 1));
             //var data1 = mc.GetRandomizedData(new ExponentialDistribution(1));
             //var data1 = mc.GetRandomizedData(new UniformContinuousDistribution());
-            var data1 = mc.GetRandomizedData(new WeibullDistribution(1, 1));
+            var data1 = mc.GetRandomizedData(new WeibullDistribution(1, 1.5));
             var reg = new SimpleLinearRegression();
             reg.Slope = 0.35;
             reg.Intercept = 3;
@@ -45,8 +45,13 @@ namespace ExcelWorkbook1
             worksheet.Cells[1, 1] = estim.DistributionType.ToString();
             worksheet.Cells[2, 1] = estim.score * 100;
             int index = 2;
-            foreach (double value in data1)
-                worksheet.Cells[++index, 1] = value;
+            foreach(KeyValuePair<Statistic, double> param in estim.ParameterDictionary)
+            {
+                worksheet.Cells[++index, 1] = param.Key.ToString();
+                worksheet.Cells[index, 2] = param.Value;
+            }
+            //foreach (double value in data1)
+                //worksheet.Cells[++index, 1] = value;
         }
 
         public static double GetAverage(List<double> inputList)
