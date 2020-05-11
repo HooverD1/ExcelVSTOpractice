@@ -32,8 +32,9 @@ namespace ExcelWorkbook1
             //var data1 = mc.GetRandomizedData(new NormalDistribution(0,1));
             //var data1 = mc.GetRandomizedData(new PoissonDistribution(1));
             //var data1 = mc.GetRandomizedData(new LognormalDistribution(1, 1));
-            var data1 = mc.GetRandomizedData(new ExponentialDistribution(1));
+            //var data1 = mc.GetRandomizedData(new ExponentialDistribution(1));
             //var data1 = mc.GetRandomizedData(new UniformContinuousDistribution());
+            var data1 = mc.GetRandomizedData(new WeibullDistribution(1, 1));
             var reg = new SimpleLinearRegression();
             reg.Slope = 0.35;
             reg.Intercept = 3;

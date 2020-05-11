@@ -20,13 +20,15 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
+            MonteCarlo mc = new MonteCarlo();
             test_data = new List<double>() { 1, 2, 3, 4, 5};
-            
+            //var data1 = mc.GetRandomizedData(new ExponentialDistribution(1));
         }
 
         [Test]
         public void Test_Score_LognormalEstimate()
         {
+            
             var logNorm = new LognormalEstimate(test_data);
             logNorm.Construct();
             Assert.AreEqual(logNorm.score, 0.97989354960026254);

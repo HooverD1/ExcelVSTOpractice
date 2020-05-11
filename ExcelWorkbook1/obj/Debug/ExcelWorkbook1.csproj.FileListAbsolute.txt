@@ -22,3 +22,4 @@ C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\Accord.Math.
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\Accord.Statistics.xml
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\MathNet.Numerics.dll
 C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\bin\Debug\MathNet.Numerics.xml
+C:\Users\grins\source\repos\ExcelWorkbook1\ExcelWorkbook1\obj\Debug\ExcelWorkbook1.csprojAssemblyReference.cache

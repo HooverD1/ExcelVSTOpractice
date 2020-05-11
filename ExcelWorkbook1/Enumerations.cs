@@ -13,7 +13,8 @@ namespace ExcelWorkbook1
         Uniform,
         Lognormal,
         Poisson,
-        Triangular
+        Triangular,
+        Weibull
     }
     public enum Statistic
     {
@@ -25,6 +26,7 @@ namespace ExcelWorkbook1
         Max,
         Min,
         Median,
-        Mode
+        Mode,
+        Scale
     }
 }

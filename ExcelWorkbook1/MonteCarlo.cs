@@ -26,7 +26,7 @@ namespace ExcelWorkbook1
                 returnList.Add(distribution.Generate());
             return returnList;
         }
-        internal List<double> GetSamplingDistributionData(ISampleableDistribution<double> distribution)
+        public List<double> GetSamplingDistributionData(ISampleableDistribution<double> distribution)
         {
             samplingDistributionData.Clear();
             for(int i = 0; i < 1000; i++)
@@ -36,7 +36,7 @@ namespace ExcelWorkbook1
             }
             return samplingDistributionData;
         }
-        internal List<double> GetOutputDistribution(ISampleableDistribution<double> inputDistribution, SimpleLinearRegression regression)
+        public List<double> GetOutputDistribution(ISampleableDistribution<double> inputDistribution, SimpleLinearRegression regression)
         {
             var returnList = new List<double>();
             for(int i = 0; i < 1000; i++)
@@ -45,14 +45,14 @@ namespace ExcelWorkbook1
             }
             return returnList;
         }
-        internal double GetContinuousDistResult(UnivariateContinuousDistribution continuousDistribution, ListToPoint<double> function)
+        public double GetContinuousDistResult(UnivariateContinuousDistribution continuousDistribution, ListToPoint<double> function)
         {
             var inputList = new List<double>();
             for(int i=0;i<1000;i++)
                 inputList.Add(continuousDistribution.Generate());
             return function(inputList);
         }
-        internal double GetDiscreteDistResult(UnivariateDiscreteDistribution discreteDistribution, ListToPoint<double> function)
+        public double GetDiscreteDistResult(UnivariateDiscreteDistribution discreteDistribution, ListToPoint<double> function)
         {
             var inputList = new List<double>();
             for (int i = 0; i < 1000; i++)
