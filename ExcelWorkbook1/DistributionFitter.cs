@@ -22,11 +22,13 @@ namespace ExcelWorkbook1
             var returnEstimate3 = new ExponentialEstimate(data);
             var returnEstimate4 = new PoissonEstimate(data);
             var returnEstimate5 = new LognormalEstimate(data);
+            var returnEstimate6 = new WeibullEstimate(data);
             estimates.Add(returnEstimate1);
             estimates.Add(returnEstimate2);
             estimates.Add(returnEstimate3);
             estimates.Add(returnEstimate4);
             estimates.Add(returnEstimate5);
+            estimates.Add(returnEstimate6);
             var bestFit = estimates.OrderBy(x => x.score).Last();
             bestFit.Construct();
             return bestFit;
